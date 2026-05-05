@@ -17,13 +17,13 @@ Proyek ini dirancang untuk mendemonstrasikan pemahaman pilar utama OOP:
 5. **Composition**: Kelas `Dompet` memiliki (has-a) hubungan dengan `List<Transaksi>`, di mana fungsionalitas Dompet bergantung pada keberadaan objek Transaksi.
 
 ## Tech Stack & Persiapan
-- **Bahasa**: Java (JDK 8 atau lebih baru)
+- **Bahasa**: Java
 - **IDE**: NetBeans 
 - **Database**: MySQL (XAMPP)
 - **Library**: MySQL Connector/J
 
 ### Cara Menjalankan Proyek:
-1. Clone repositori ini ke komputer lokal kamu.
+1. Clone repositori ini.
 2. Buka **XAMPP Control Panel** dan jalankan Apache serta MySQL.
 3. Import database melalui phpMyAdmin menggunakan file yang tersedia di folder `database_sql/finance_tracker.sql`.
 4. Buka proyek melalui NetBeans.
