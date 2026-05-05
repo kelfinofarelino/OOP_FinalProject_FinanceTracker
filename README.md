@@ -1,4 +1,4 @@
-# PROJECT ASSIGNMENT OOP PRACTICUM IH-H
+# FINAL PROJECT ASSIGNMENT OOP PRACTICUM IH-H
 # 💰 Personal Finance Tracker
 
 Aplikasi pencatat keuangan harian sederhana yang dibangun menggunakan **Java Swing** dan **MySQL**. Proyek ini menerapkan arsitektur **MVC (Model-View-Controller)** dan prinsip **Pemrograman Berorientasi Objek (OOP)** secara mendalam.
