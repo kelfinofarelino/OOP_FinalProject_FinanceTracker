@@ -1,0 +1,10 @@
+# Mengabaikan file hasil kompilasi NetBeans
+build/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Mengabaikan file class
+*.class
