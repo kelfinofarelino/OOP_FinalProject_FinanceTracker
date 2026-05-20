@@ -14,8 +14,8 @@ public class Dompet {
         this.daftarTransaksi = daftarTransaksi;
     }
 
-    public double hitungSaldo() {
-        double saldo = 0;
+    public long hitungSaldo() {
+        long saldo = 0;
         for (Transaksi t : daftarTransaksi) {
             if (t instanceof Pemasukan) {
                 saldo += t.getNominal();
