@@ -31,4 +31,4 @@ Proyek ini dirancang untuk mendemonstrasikan pemahaman pilar utama OOP:
 6. Run file `Main.java` di package `app`.
 
 ---
-Dibuat oleh **Muhammad Farelino Kelfin Ramadhani - 123240205**
+Dibuat oleh **Muhammad Farelino Kelfin Ramadhani - 123240205 dan Muhammad Fariz Syahada - 123240158**
